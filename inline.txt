@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inline Style Example</title>
+</head>
+<body>
+    <h1 style="color: red; text-align: center;">Đây là tiêu đề với Inline Style</h1>
+    <h2 style="font-size: 20px; color: blue;">Tiêu đề cấp 2 với Inline Style</h2>
+</body>
+</html>
